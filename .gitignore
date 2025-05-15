@@ -1,3 +1,5 @@
 .pdf
 .json
 .out
+.venv/
+miggle_production_log.csv
