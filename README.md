@@ -1,3 +1,5 @@
+![MiggleLight drawing](./proto.jpg)
+
 # Miggle Light
 > "Who said digital notebook?"
 
