@@ -43,4 +43,20 @@ The #highlight[Miggle] Light is a low-tech, cardboard-based device made for cont
 + notebook paper size
   - A6-like
   - A5
-  ...
+
+
+== Materials
++ 180g, A4, paper, metalic, spiral, colors:
+  - White
+  - marfin
++ Contact paper (transparent)
++ Kraft paper, A4, 80g, spiral
++ 6 small magnets
++ Flourescent paint (green)
++ 4 Rubber bands
+
+== Logotypes
+
+// #image("./assets/Logotypes.jpg", width: "70%")
+
+
