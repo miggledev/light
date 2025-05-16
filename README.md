@@ -1,7 +1,9 @@
-![MiggleLight drawing](./proto.jpg)
+![MiggleLight drawing](./assets/proto.jpg)
 
 # Miggle Light
 > "Who said digital notebook?"
+
+Meet the handmade, eco-friendly smart notebook case designed for analog lovers.
 
 ## OEM
 Generate product copy info: [geninfo](./generate_inf.py)
