@@ -14,3 +14,7 @@ Colours: [product sheet](./product.typ) <br>
 Sizes: [Notebook variation sheet](./product.typ) <br>
 Product Info: [Product Sheet](./product.typ) <br>
 
+## Modding
+AI guider: [MiggleAI](./modai.py)
+
+

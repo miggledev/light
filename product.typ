@@ -5,7 +5,7 @@
 
 = Product details
 
-// #image("light.png", width: "70%")
+#image("./assets/migglelight-1.jpg", width: "70%")
 
 == Box contents
 
