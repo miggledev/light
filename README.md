@@ -3,8 +3,6 @@
 # Miggle Light
 > "Who said digital notebook?"
 
-![MiggleLightLogo](./assets/logo.png)
-
 Meet the handmade, eco-friendly smart notebook case designed for analog lovers.
 
 ## OEM
