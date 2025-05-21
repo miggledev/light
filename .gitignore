@@ -3,3 +3,8 @@
 .out
 .venv/
 miggle_production_log.csv
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
