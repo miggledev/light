@@ -5,3 +5,9 @@
 
 // set the font
 // #set text(font-family: "Patrick Hand")
+
+
+#let header = [
+  set text("InkUI", font-size: 20pt, font-weight: bold, color: #000000),
+  set text("Device", font-size: 12pt, font-weight: normal, color: #000000)
+]
