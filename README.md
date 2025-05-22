@@ -1,4 +1,4 @@
-![MiggleLight drawing](./assets/proto.jpg)
+![MiggleLight drawing](./assets/light.jpg)
 
 # Miggle Light
 > "Who said digital notebook?"
@@ -15,6 +15,5 @@ Sizes: [Notebook variation sheet](./product.typ) <br>
 Product Info: [Product Sheet](./product.typ) <br>
 
 ## Modding
-AI guider: [MiggleAI](./modai.py)
-
-
+> [!NOTE]
+> Still working on it!
